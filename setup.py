@@ -10,7 +10,6 @@ with open('msaUtils/__init__.py') as f:
             exec(line, info)
             break
 
-
 setup_info = dict(
     name='msaUtils',
     version=info['version'],
