@@ -18,7 +18,7 @@ setup_info = dict(
     url='https://github.com/swelcker/msaUtils',
     download_url='http://pypi.python.org/pypi/msaUtils',
     project_urls={
-        'Documentation': 'http://msa.u2d.ai/',
+        'Documentation': 'http://msaUtils.u2d.ai/',
         'Source': 'https://github.com/swelcker/msaUtils',
         'Tracker': 'https://github.com/swelcker/msaUtils/issues',
     },
